@@ -1,0 +1,12 @@
+Objective:
+Capture the 5 Control Points to win. Control Points cannot be captured while they are locked.
+
+Layout:
+The first control point is located on the top of the map. The next two are located in the basement, and the final two located in the center room - just outside each spawn.
+
+Other Notes:
+There are some hidden easter eggs in the map, so keep your eyes open ;)
+
+- Map created by Rasmus "Ztride" Hofreus -
+
+This map was originally uploaded July 2011 as the final version of the TF2 map cp_orange_vertical (uploaded Mars 2011), which was built on my previous CS:S map fy_orange_skycity (uploaded July 2010).
